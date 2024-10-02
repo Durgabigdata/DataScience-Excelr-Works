@@ -1,0 +1,8 @@
+Problem Statement / Objective :-
+
+
+Classification Using Artificial Neural Networks with Hyperparameter Tuning on Alphabets Data
+
+Overview
+
+In this assignment, you will be tasked with developing a classification model using Artificial Neural Networks (ANNs) to classify data points from the "Alphabets_data.csv" dataset into predefined categories of alphabets. 
