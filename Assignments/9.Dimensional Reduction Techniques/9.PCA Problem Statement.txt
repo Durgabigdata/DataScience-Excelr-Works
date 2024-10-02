@@ -1,0 +1,3 @@
+Problem Statement / Objective :-
+
+The objective of this assignment is to introduce to Dimensional Reduction techniques and provide hands-on experience in applying these techniques to a real-world dataset.
