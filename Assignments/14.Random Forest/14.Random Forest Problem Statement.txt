@@ -1,0 +1,3 @@
+Problem Statement / Objective :-
+
+Use the Glass dataset and apply the Random forest model.
