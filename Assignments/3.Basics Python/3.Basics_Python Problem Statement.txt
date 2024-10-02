@@ -1,0 +1,19 @@
+Objective /Problem Statement :-
+
+Exercise 1: Prime Numbers
+
+Write a Python program that checks whether a given number is prime or not. A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
+
+Exercise 2: Product of Random Numbers
+
+Develop a Python program that generates two random numbers and asks the user to enter the product of these numbers. The program should then check if the user's answer is correct and display an appropriate message.
+
+Exercise 3: Squares of Even/Odd Numbers
+
+Create a Python script that prints the squares of all even or odd numbers within the range of 100 to 200. Choose either even or odd numbers
+
+Exercise 4: Word counter
+write a program to count the number of words in a given text.
+
+Exercise 5: Check for Palindrome
+Write a Python function called is_palindrome that takes a string as input and returns True if the string is a palindrome, and False otherwise. 
