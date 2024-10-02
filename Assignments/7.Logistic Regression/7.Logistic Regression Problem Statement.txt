@@ -1,0 +1,3 @@
+Problem Statement / Objective :-
+
+Your task is to perform a Logistic regression analysis to predict the probability of survival based on the given attributes and deployment.
