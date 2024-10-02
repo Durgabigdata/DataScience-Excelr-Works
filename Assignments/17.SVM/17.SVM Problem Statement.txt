@@ -1,0 +1,3 @@
+Problem Statement / Objective :-
+
+The objective of this assignment is to implement and evaluate the Support Vector Machine algorithm for  the given dataset.
